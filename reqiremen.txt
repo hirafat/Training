@@ -5,3 +5,14 @@ colours
 vibreant
 Dark mode
 Video calls
+#include<stdio.h>
+int main()
+ {
+  stuct node
+  {
+    int x;
+    char ch;
+     flat y;
+   };
+   
+ 
